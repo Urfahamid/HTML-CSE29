@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="em";
+  <head>
+    <meta chaeset="UTF-8">
+    <meta name="veiwport"content="width=device-width, initial scale=1.8">
+    <title>My First HTML page</title>
+</head>
+<body>
+  <centre>hello world</centre>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Eveniet impedit iste fuga, facere commodi corrupti quasi totam inventore error. Repellendus, libero dolore placeat sapiente laborum maxime dolores voluptate unde perferendis!</p>
+    <h1>URFA HAMID,MOHD HAMID,MASOOD PARVEEN</h1>
+    <h2>CSE29</h2>
+</body>
+</html>
